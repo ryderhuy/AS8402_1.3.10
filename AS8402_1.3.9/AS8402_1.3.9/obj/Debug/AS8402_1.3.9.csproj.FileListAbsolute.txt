@@ -1,0 +1,10 @@
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\obj\Debug\AS8402_1._3._9.Properties.Resources.resources
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\obj\Debug\AS8402_1.3.9.csproj.GenerateResource.Cache
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\bin\Debug\AS8402_1.3.9.exe.config
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\bin\Debug\AS8402_1.3.9.exe
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\bin\Debug\AS8402_1.3.9.pdb
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\bin\Debug\InspSensor.exe
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\bin\Debug\InspSensor.pdb
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\obj\Debug\AS8402_1.3.9.csprojResolveAssemblyReference.cache
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\obj\Debug\AS8402_1.3.9.exe
+E:\AS8402_1.3.9\AS8402_1.3.9\AS8402_1.3.9\obj\Debug\AS8402_1.3.9.pdb
